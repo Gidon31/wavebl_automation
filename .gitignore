@@ -1,0 +1,7 @@
+.env
+__pycache__/
+.pytest_cache/
+allure-results/
+report.html
+test-results/
+.idea/
